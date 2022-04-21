@@ -1,10 +1,9 @@
 # BC547-based-liquid-level-Indicator
 
 
-# How-to-make-easy-Water-Level-Indicator
 
 
-![maxresdefault (1)](https://user-images.githubusercontent.com/19898602/130759456-b564873a-a2e5-4aff-bfd5-a421a5d2e017.jpg)
+![image](https://user-images.githubusercontent.com/19898602/164514025-2588d97c-7456-44ec-b660-35c71d4fabca.png)
 
 
 How to make a water level indicator to save water from overflowing with Motor Dry run prevention.
@@ -72,19 +71,66 @@ There by you can follow the LED's as they light up from Red to Yellow and then G
 
 Before moving further I would like to tell you something about PCB 
 
+# Custom PCB for the Project
+
+You make this project same as I make, but if you want to give profession look to your project, or you want to make it more
+comercial you must have PCB for the Circuit.
+
 Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
 
 like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
 
-but then I came to know about [JLCPCB.com](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+but then I came to know about JLCPCB.com and I was totally surprised how low price PCB's are they offering
 
-there PCB quality is top to the mark now I always go with PCB for my project and [JLCPCB.com](https://jlcpcb.com/IAT) is my trusted 
+there PCB quality is top to the mark now I always go with PCB for my project and JLCPCB.com is my trusted
 
-PCB manufacturer, you can also try there PCB service for more details you can visit their website [JLCPCB.com](https://jlcpcb.com/IAT)
+PCB manufacturer, you can also try there PCB service for more details you can visit their website JLCPCB.com
 
 
-![image](https://user-images.githubusercontent.com/19898602/127161780-d9b742d8-fd97-4e1e-a35f-a6591f8c3411.png)![image](https://user-images.githubusercontent.com/19898602/127161903-d6753a2e-5242-4ab7-8406-29ac5a486a42.png)![image](https://user-images.githubusercontent.com/19898602/127162080-a4212957-1ebb-4e81-ad5e-bd3c1e0ecb87.png)
+# PCB FILES
 
+ you can download or edit the PCB file from this link
+ 
+ https://oshwlab.com/sharmaz747/bc547-based-water-level-indicator
+ 
+
+![image](https://user-images.githubusercontent.com/19898602/164514612-54e347a9-8a3e-4b9e-a769-0c5f16e9d779.png)![image](https://user-images.githubusercontent.com/19898602/164514776-7bfff99e-6e53-49fd-9ea7-c74e1a30a111.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/164514848-80c9ec10-4f20-4494-92f2-985531587d7d.png)
+
+
+If you seriously need quality PCB quickly in your hand then you must have to try JLCPCB PCB manufacturing service. They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly. If new user signup today from this link [JLCPCB.com](https://jlcpcb.com/IAT) you will get welcome coupons from JLCPCB.
+
+
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+![image](https://user-images.githubusercontent.com/19898602/164385177-de123350-4a1f-4d0f-9f38-68ed7dbd5a9f.png)
+
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $27 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+* Follow the simple step to get this PCB board.
+
+1 - Download the circuit board Gerber file: https://oshwlab.com/sharmaz747/bc547-based-water-level-indicator
+
+2 - Create an account using the link below: [JLCPCB.com](https://jlcpcb.com/IAT)
+
+3 - visit [JLCPCB.com](https://jlcpcb.com/IAT) Add the Gerber file and place the order. 
 
 
 
