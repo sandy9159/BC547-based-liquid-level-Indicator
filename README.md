@@ -126,7 +126,7 @@ Now no need to order components separately for you PCB and get free from stress 
 
 * Follow the simple step to get this PCB board.
 
-1 - Download the circuit board Gerber file: https://oshwlab.com/sharmaz747/bc547-based-water-level-indicator
+1 - Download the circuit board Gerber file: https://oshwlab.com/sharmaz747/self-balancing
 
 2 - Create an account using the link below: [JLCPCB.com](https://jlcpcb.com/IAT)
 
