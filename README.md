@@ -3,7 +3,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/19898602/164514025-2588d97c-7456-44ec-b660-35c71d4fabca.png)
+![MVI_5803](https://user-images.githubusercontent.com/19898602/130769868-d6d02174-e190-461e-812c-28d533d1afa0.gif)
 
 
 How to make a water level indicator to save water from overflowing with Motor Dry run prevention.
